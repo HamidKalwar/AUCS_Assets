@@ -14,11 +14,11 @@ public class Main {
     }
 
     public static void main(String[] args) {
-//        int[] digits = {9,9};
-//
-//        digits = new Main().plusOne(digits);
-//        for (int digit : digits) {
-//            System.out.print(digit);
-//        }
+       int[] digits = {9,9};
+
+       digits = new Main().plusOne(digits);
+       for (int digit : digits) {
+           System.out.print(digit);
+       }
     }
 }
