@@ -22,3 +22,15 @@ Student ID: <b>MMG-F23-0009</b>
 
 Reach out to me: +923154988524
 <hr>
+
+
+<h2> I am maintaining Fall-24 Multi Media And Gaming assets </h2><br>
+Name: <b>Muhammad Ilyas Shaikh </b>
+<br>
+Institute: <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
+<br>
+Student ID: <b>MMG-F24-0053</b>
+<br>
+
+Reach out to me: +923190315685
+<hr>
