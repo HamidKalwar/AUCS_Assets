@@ -4,7 +4,7 @@
 <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
 <br>
 <b>ARI-F23-0018</b>
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <h2>Reach out to me 👇</h2>&nbsp;&nbsp;&nbsp;
  <a href="https://wa.link/gxsugl"><img src="src/icons/whatsapp.png" height="30"></a>&nbsp;&nbsp;&nbsp;
  <a href="https://facebook.com/ahtisham.shaikh.1214"><img src="src/icons/facebook.png" height="30"></a>&nbsp;&nbsp;&nbsp;
