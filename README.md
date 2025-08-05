@@ -1,5 +1,5 @@
 <h1> I am maintaining Fall-23 Artificial Intelligence assets </h1><br>
-<b>Muhammad Ahtisham</b><img src="src/icons/ahtisham_icon.gif" min-width="200px" max-width="300px" width="230px" align="right">
+<b>Muhammad Ahtisham</b><img src="src/icons/ahtisham_icon.gif" min-width="300px" max-width="500px" width="400px" align="right">
 <br>
 <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
 <br>
