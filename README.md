@@ -1,9 +1,9 @@
 <h1> I am maintaining Fall-23 Artificial Intelligence assets </h1><br>
-Name: <b>Muhammad Ahtisham</b>
+<b>Muhammad Ahtisham</b><img src="src/icons/ahtisham_icon.gif" min-width="200px" max-width="300px" width="230px" align="right">
 <br>
-Institute: <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
+<b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
 <br>
-Student ID: <b>ARI-F23-0018</b>
+<b>ARI-F23-0018</b>
 <br><br>
 <h2>Reach out to me 👇</h2>&nbsp;&nbsp;&nbsp;
  <a href="https://wa.link/gxsugl"><img src="src/icons/whatsapp.png" height="30"></a>&nbsp;&nbsp;&nbsp;
