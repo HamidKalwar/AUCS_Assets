@@ -45,3 +45,14 @@ Student ID: <b>ARI-F24-0090</b>
 
 Reach out to me: +923303247991
 <hr>
+
+<h2> I am maintaining Fall-24 Artificial Intelligence assets </h2><br>
+Name: <b>Hassnain Abbas </b>
+<br>
+Institute: <b>Aror University of Art, Architecture, Design and Heritage, Sukkur</b>
+<br>
+Student ID: <b>ARI-F25-1152</b>
+<br>
+
+Reach out to me: +923337588072
+<hr>
